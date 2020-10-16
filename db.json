@@ -1,5 +1,5 @@
 {
-    "data": [
+    "data": [{
         "appname": "binocool",
         "appversion": "1.2.3",
         "status": "fail",
@@ -19,5 +19,5 @@
                 "error": "Destination host unreachable"
             }
         }
-    ]
+    }]
 }
