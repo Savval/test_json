@@ -5,7 +5,7 @@
         "status": "fail",
         "health": {
             "major": "ok",
-            "minor": "fail",
+            "minor": "fail"
         },
         "resources": {
             "connection_database_static": {
