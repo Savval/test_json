@@ -1,22 +1,19 @@
 {
-  "healthcheck": [
-    "1": {
+  [
+    {
       "appname": "test1",
       "appversion": "1.0.0",
       "status": "ok"
     },
-    "2": {
+    {
       "appname": "test2",
       "appversion": "1.2.3",
       "status": "fail"
     },
-    "3": {
+    {
       "appname": "test3",
       "appversion": "3.2.1",
       "status": "error"
     }
-  ],
-  "foo": {
-    "bar": "foobar"
-  }
+  ]
 }
