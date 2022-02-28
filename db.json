@@ -1,9 +1,5 @@
 {
-  "appname": "binocool",
-  "appversion": "1.2.3",
-  "status": "fail",
-  "health": {
-    "major": "ok",
-    "minor": "fail"
-  }
+  "appname": "test",
+  "appversion": "1.0.0",
+  "status": "ok"
 }
