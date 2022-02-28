@@ -5,17 +5,5 @@
   "health": {
     "major": "ok",
     "minor": "fail"
-  },
-  "resources": {
-    "connection_database_static": {
-      "status": "ok"
-    },
-    "accesswrite_folder_tmp": {
-      "status": "ok"
-    },
-    "connection_network_applicationX": {
-      "status": "fail",
-      "error": "Destination host unreachable"
-    }
   }
 }
