@@ -1,5 +1,9 @@
 {
-  "appname": "test",
-  "appversion": "1.0.0",
-  "status": "ok"
+  "healthcheck": [
+    {
+      "appname": "test",
+      "appversion": "1.0.0",
+      "status": "ok"
+    }
+  ]
 }
